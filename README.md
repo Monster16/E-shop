@@ -8,5 +8,7 @@ In BackEnd 5 Services are there in Spring Boot using Java
 4. Apigateway Service
 5. Eureka Service
 
+Admin Service and Payment Service is there but still pending 
+
 In front ReactJs
 
